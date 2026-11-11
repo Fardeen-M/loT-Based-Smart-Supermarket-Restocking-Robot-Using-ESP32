@@ -1,4 +1,4 @@
-🤖 IoT-Based Smart Supermarket Restocking Robot Using Raspberry Pi Pico W
+🤖 IoT-Based Smart Supermarket Restocking Robot Using ESP32
 
 📌 Project Overview
 
