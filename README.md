@@ -8,38 +8,38 @@ When a product is low or out of stock, the system sends a restocking request to 
 
 🎯 Objectives
 
-Monitor supermarket stock levels using IoT technology.
-Automate product transportation between the storeroom and supermarket aisles.
-Reduce manual transportation effort.
-Display required products and quantities.
-Improve supermarket inventory management.
+✓Monitor supermarket stock levels using IoT technology.
+✓Automate product transportation between the storeroom and supermarket aisles.
+✓Reduce manual transportation effort.
+✓Display required products and quantities.
+✓Improve supermarket inventory management.
 
 ⚙️ Key Features
 
-IR sensor-based shelf monitoring.
-Automatic robot movement.
-IoT-based stock monitoring through Wi-Fi.
-Product and quantity display.
-Load Complete confirmation button.
-Automated transportation between locations.
+✓IR sensor-based shelf monitoring.
+✓Automatic robot movement.
+✓IoT-based stock monitoring through Wi-Fi.
+✓Product and quantity display.
+✓Load Complete confirmation button.
+✓Automated transportation between locations.
 
 🔧 Hardware Components
 
-ESP32
-ESP32 / ESP32-CAM
-IR Sensors
-DC Motors
-Motor Driver
-Display Module
-Push Button
-Power Supply
+✓ESP32
+✓ESP32 / ESP32-CAM
+✓IR Sensors
+✓DC Motors
+✓Motor Driver
+✓Display Module
+✓Push Button
+✓Power Supply
 
 💻 Software & Technologies
 
-C++ (as implemented)
-Arduino IDE
-IoT Communication
-Wi-Fi Connectivity
+✓C++ (as implemented)
+✓Arduino IDE
+✓IoT Communication
+✓Wi-Fi Connectivity
 
 🔄 Working Principle
 
@@ -62,19 +62,19 @@ Robot Unit: Transports products between the storeroom and supermarket aisles.
 
 🌟 Advantages
 
-Reduces manual work.
-Saves time in product transportation.
-Improves restocking efficiency.
-Supports smart inventory management.
-Provides an IoT-based automation solution.
+✓Reduces manual work.
+✓Saves time in product transportation.
+✓Improves restocking efficiency.
+✓Supports smart inventory management.
+✓Provides an IoT-based automation solution.
 
 🚀 Future Enhancements
 
-AI-based product recognition.
-Real-time cloud inventory management.
-Obstacle detection and avoidance.
-Multiple robot coordination.
-Live tracking through a mobile application.
+✓AI-based product recognition.
+✓Real-time cloud inventory management.
+✓Obstacle detection and avoidance.
+✓Multiple robot coordination.
+✓Live tracking through a mobile application.
 
 👨‍💻 Team Members
 
